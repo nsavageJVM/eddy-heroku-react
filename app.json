@@ -1,0 +1,6 @@
+{
+  "name": "eddys heroku react",
+  "description": "tutorial code for Eduonix projects in cloud computing",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
